@@ -11,7 +11,6 @@ import Menu from './assets/menu-list.svg';
 var theWidth = Dimensions.get('window').width; //full width
 var theHeight = Dimensions.get('window').height; //full height
 
-
 {/*export default class App extends Component{*/ }
 export default function App() {
   let count = 0;
